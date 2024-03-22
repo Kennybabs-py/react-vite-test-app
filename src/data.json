@@ -1,0 +1,18 @@
+[
+  { "id": 1, "image": "/pexels-1.jpg", "text": "Woman with camel." },
+  { "id": 2, "image": "/pexels-2.jpg", "text": "Books...and a shelf." },
+  {
+    "id": 3,
+    "image": "/pexels-3.jpg",
+    "text": "Nature scenery: Grass landscape."
+  },
+  { "id": 4, "image": "/pexels-4.jpg", "text": "Sheeps....init?" },
+  { "id": 5, "image": "/pexels-1.jpg", "text": "Woman with camel." },
+  { "id": 6, "image": "/pexels-2.jpg", "text": "Books...and a shelf." },
+  {
+    "id": 7,
+    "image": "/pexels-3.jpg",
+    "text": "Nature scenery: Grass landscape."
+  },
+  { "id": 8, "image": "/pexels-4.jpg", "text": "Sheeps....init?" }
+]
